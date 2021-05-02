@@ -11,7 +11,8 @@ public class MyGitClass {
 		System.out.println("ahmets updates");
 
 		System.out.println("ayse updates");
-
+		
+		System.out.println("ahmets updates");
 	}
 
 }
