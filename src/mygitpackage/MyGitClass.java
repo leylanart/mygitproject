@@ -7,6 +7,7 @@ public class MyGitClass {
 		System.out.println("My third commit");
 		System.out.println("remote codes");
 		System.out.println("leylas updates");
+		System.out.println("ahmets updates");
 	}
 
 }
