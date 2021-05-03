@@ -13,6 +13,7 @@ public class MyGitClass {
 		System.out.println("ayse updates");
 		System.out.println("omers updates");
 		System.out.println("leyla branch te yaptigim updates");
+		System.out.println("New updates in Leylas branch");
 
 
 	}
